@@ -25,11 +25,15 @@ Rules :
   - Must implement only the method in the classes inside src/main
   - Not allowed to add any new file to the project
   - Not allowed to change any code inside src/test
+  - Not allowed to change any file outside src/main/**/Program.java
+  - Only allowed to add code to the predefined method in Program.java
   - Must implement one program at a time
   - Must commit the changes for one program before attempting for next program
   - Must commit it with message like "p34 implemented"
 
+
 Submission :
+
 Once you are done with all the programs ensure the followings to submit :
   - Ensure all your test cases are passing (mvn clean test)
   - Ensure you have not broken any of the above rules
