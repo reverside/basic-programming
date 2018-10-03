@@ -1,17 +1,16 @@
 ### Basic Programming (Java)
 
 Prerequisite:
-- JDK 1.8+
+- .NET Core SDK 2.1
 - GIT
-- MAVEN
 
 Setup:
 - Create an account in github (if you don't have)
-- Open this project in github using the provided URL
+- Open this project in github after login with your github account
 - Fork this project into your github account (check top-right on git)
 - Now you can see the project in your github account
 - Clone the project to your machine from your github account
-- Checkout branch (java) locally with "git checkout java"
+- Checkout branch (c#) locally with "git checkout c#"
 - Now you can see the project structure and build it (mvn clean test)
 
 
