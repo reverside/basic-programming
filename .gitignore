@@ -1,3 +1,8 @@
 target
 .idea
 *.iml
+.vscode
+
+/BasicProgrmming/
+/BasicProgrmming.Tests/
+NuGet.config
