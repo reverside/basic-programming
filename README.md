@@ -1,4 +1,4 @@
-### Basic Programming (Java)
+### Basic Programming (C#)
 
 Prerequisite:
 - .NET Core SDK 2.1
