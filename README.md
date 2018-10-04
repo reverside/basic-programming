@@ -41,5 +41,29 @@ Once you are done with all the programs ensure the followings to submit :
   - Share your github project URL with Lerato using email
 
 
+Quick Note :
+
+  - Run all test cases
+  ```
+  mvn clean test
+  ```
+  - Run a test case
+  ```
+  mvn clean test -Dtest=**/p01/ProgramTest
+
+  NB:
+  Replace 'p01' above with your program number
+  ```
+  - Generate test report
+  ```
+  mvn surefire-report:report
+
+  NB:
+  HTML report should be generated in ${basedir}/target/site/surefire-report.html
+  ```
+
+
+
+
 
 
