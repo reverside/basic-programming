@@ -1,7 +1,13 @@
 target
+
 .idea
 *.iml
+
 .vscode
+
+.project
+.settings
+.classpath
 
 /BasicProgrmming/
 /BasicProgrmming.Tests/
